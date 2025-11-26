@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://coinflip-game.github.io/sitemap.xml
